@@ -17,4 +17,5 @@ print(slownik)
 print()
 
 if wartosci_logicze : True
-print(wartosci_logicze)
+
+    print(wartosci_logicze)
