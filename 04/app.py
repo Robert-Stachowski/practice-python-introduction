@@ -22,3 +22,5 @@ def o_sobie(imie, tygodnie ,cel):
 )
 o_sobie("Robert", "1", "Be the best of the best ;P")
 # Czy można użyć tych samych nazw zmiennych przy f-stringu i def?
+# Coś mi z tymi commitami się popaprało... ;/
+# zacommituję jeszcze raz dla pewności :D
