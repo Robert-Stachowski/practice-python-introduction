@@ -7,6 +7,7 @@ krotka = (10 , 20 , 8)
 zbior = {1, 3, 5, 7}
 slownik = {"stan" : "nowy" , "dlugosc" : 30}
 
+
 print(liczby_calkowite)
 print(liczby_zmiennoprzecinkowe)
 print(tekst)
@@ -15,7 +16,6 @@ print(*krotka)
 print(*zbior)
 print(slownik)
 print()
-
+  
 if wartosci_logicze : True
-
-    print(wartosci_logicze)
+print(wartosci_logicze)

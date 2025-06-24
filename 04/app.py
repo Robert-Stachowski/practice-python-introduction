@@ -9,4 +9,16 @@ print(
     f"\n"
     f"Nie było to łatwe zadanie dla laika, " 
     f"całe szczęście że mamy dobrodziejstwo internetów ;) "
+
 )
+
+
+def o_sobie(imie, tygodnie ,cel):
+    print(
+        f"Mam na imię {imie}, "
+        f"od {tygodnie} tygodni uczę się programowania. "
+        f"Moim celem jest {cel}"
+        
+)
+o_sobie("Robert", "1", "Be the best of the best ;P")
+# Czy można użyć tych samych nazw zmiennych przy f-stringu i def?
